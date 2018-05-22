@@ -15,8 +15,7 @@ To get a development env running after changes:
     - Bootstrap
   * CSS
   * JavaScript
-    - NodeJS
-    - ExpressJS
+  * PHP (Just to get app started)
 # Author
 Name: David Capella
 
