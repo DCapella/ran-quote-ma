@@ -14,8 +14,10 @@ To get a development env running after changes:
   * HTML
     - Bootstrap
   * CSS
-  * JavaScript
+  * JavaScript (Vanilla)
   * PHP (Just to get app started)
+# API
+https://talaikis.com/random_quotes_api/
 # Author
 Name: David Capella
 
